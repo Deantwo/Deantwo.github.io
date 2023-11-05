@@ -1,15 +1,15 @@
 {
-	"Members":[
+	"Members": [
 		{
-			"DisplayName": "tupper":
+			"DisplayName": "tupper",
 			"Moderator": true
 		},
 		{
-			"DisplayName": "Deantwo":
+			"DisplayName": "Deantwo",
 			"Creator": true
 		},
 		{
-			"DisplayName": "User_12345":
+			"DisplayName": "User_12345",
 			"Punished": true,
 			"Reason": "Blacklists aren't allowed."
 		}

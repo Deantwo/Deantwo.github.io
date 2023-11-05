@@ -1,17 +1,17 @@
 {
-	"Members":[
+	"Members": [
 		{
-			"DisplayName": "tupper":
+			"DisplayName": "tupper",
 			"Moderator": true
 		},
 		{
-			"DisplayName": "Deantwo":
+			"DisplayName": "Deantwo",
 			"Creator": true
 		},
 		{
-			"DisplayName": "User_12345":
+			"DisplayName": "User_12345",
 			"Punished": true,
 			"Reason": "Blacklists aren't allowed."
 		}
 	]
-}1698196620000d450eafb0eae6572bc62739c962a1b0b
+}169819662000053ea314d15bdd6caca3f9bea736a6c74
