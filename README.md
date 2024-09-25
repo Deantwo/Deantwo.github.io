@@ -4,7 +4,7 @@ This is just my personal GitHub.io project. I don't know what I might end up usi
 
 ### String Downloader Security Testing
 
-I made a VRChat test world for my [VrcStringDownloaderOverride](https://github.com/Deantwo/VrcStringDownloaderOverride) project.
+Used in my [String Downloader Security Testing](https://vrchat.com/home/world/wrld_e4ffcc0c-5f48-45c9-9ecc-d56f0e585b4f) VRChat world, for testing my [vrchat-udon-mac](https://github.com/Deantwo/vrchat-udon-mac) project.
 
 * https://deantwo.github.io/StringDownloaderSecurityTesting/Basic.txt
 * https://deantwo.github.io/StringDownloaderSecurityTesting/Userlist.json
