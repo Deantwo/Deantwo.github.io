@@ -8,4 +8,5 @@ Used in my [String Downloader Security Testing](https://vrchat.com/home/world/wr
 
 * https://deantwo.github.io/StringDownloaderSecurityTesting/Basic.txt
 * https://deantwo.github.io/StringDownloaderSecurityTesting/Userlist.json
-* https://deantwo.github.io/StringDownloaderSecurityTesting/Authenticated.json
+* https://deantwo.github.io/StringDownloaderSecurityTesting/BasicMac.txt
+* https://deantwo.github.io/StringDownloaderSecurityTesting/UserlistMac.json
